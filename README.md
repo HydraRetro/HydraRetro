@@ -1,5 +1,5 @@
-- 👋 Hi, I’m HydraRetro
-- 👀 I’m interested in Front-end web development.
+- 👋 Hi, I’m HydraRetro.
+- 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m a Professional Video Editor teaching myself web development.
 - 📫 hydraretro@protonmail.com
