@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m a Professional Video Editor teaching myself web development.
-- 📫 How to reach me ...
+- 📫 hydraretro@protonmail.com
 
 <!---
 HydraRetro/HydraRetro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
