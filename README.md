@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HydraRetro
+- 👋 Hi, I’m HydraRetro
 - 👀 I’m interested in Front-end web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m a Professional Video Editor teaching myself web development.
